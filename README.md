@@ -1,5 +1,8 @@
 # My version of OpenAI Image Generator
 
+<img src="public/img/sho1.png" width="500">
+
+
 This is a simple image generator built with Node.js and Express that uses [OpenAI's Dall-E models](https://beta.openai.com/docs/guides/images) to generate images.
 
 
